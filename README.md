@@ -2,7 +2,7 @@
 
 CobaltStrike-JARM.csv
 
-ip ||||| port ||||| JARM
+IP ||||| PORT ||||| JARM
 
 **Thanks to JARM Team**:
 
